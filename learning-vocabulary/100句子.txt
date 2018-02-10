@@ -30,4 +30,5 @@
 
 8 With modern offices becomings more mechined, designers are attempting to persionalize them with warmer, less severe interior.
 	
+	interior:
 
